@@ -34,4 +34,4 @@ Feel free to customize the dashboard to better suit your needs. You can:
 This project is part of a personal portfolio and is open for feedback and suggestions. Feel free to reach out if you have any ideas for improvement.
 
 ## Contact
-For any questions or support, please contact Harshal Panchal at [your.email@example.com].
+For any questions or support, please contact Harshal Panchal at [contact@itsmeharshal.com].
